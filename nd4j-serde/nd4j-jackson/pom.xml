@@ -6,7 +6,7 @@
         <version> 0.4-rc3.7-SNAPSHOT</version>
     </parent>
     <properties>
-        <jackson.version>2.5.1</jackson.version>
+        <jackson.version>2.10.3</jackson.version>
     </properties>
     <modelVersion>4.0.0</modelVersion>
 
